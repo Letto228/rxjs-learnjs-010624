@@ -5,6 +5,6 @@ interface ElementPosition {
     left: number;
 }
 
-export function dragElement$(element: HTMLElement): Observable<ElementPosition> {
+// export function dragElement$(element: HTMLElement): Observable<ElementPosition> {
     
-}
+// }

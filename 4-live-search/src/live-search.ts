@@ -1,5 +1,5 @@
 import { OperatorFunction } from "rxjs";
 
-export function liveSearch<T>(): OperatorFunction<string, T> {
+// export function liveSearch<T>(): OperatorFunction<string, T> {
 
-}
+// }
